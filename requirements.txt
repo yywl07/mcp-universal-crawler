@@ -1,0 +1,8 @@
+mcp
+starlette
+uvicorn
+requests
+beautifulsoup4
+duckduckgo-search
+tldextract
+Pillow
